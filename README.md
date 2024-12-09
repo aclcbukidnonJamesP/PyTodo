@@ -38,7 +38,7 @@ appealing command interface to the user.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/pandan/PyTodo.git
+   git clone https://github.com/aclcbukidnonJamesP/PyTodo.git
    cd PyTodo
     ```
 2. Install the dependencies
