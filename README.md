@@ -1,4 +1,6 @@
 
+![splash.png](screenshots/splash.png)
+
 # Introduction
 
 This project is a simple ToDo List application built using
@@ -15,6 +17,8 @@ appealing command interface to the user.
 
 
 ## Features
+![img.png](screenshots/img.png)
+
 - Add a task
   - Adds new task with a title and description
 
