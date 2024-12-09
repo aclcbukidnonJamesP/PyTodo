@@ -1,0 +1,4 @@
+id,title,description,user_id,status,created_at,updated_at
+b104f808-ac2d-4232-bd07-4321e0a7fbe6,Lorem Ipsum,"Lorem Ipsum dolor set amet, consectitur adipiscing elit, sed do eiusmod tempor.",e62bf87d-c99b-4912-9d8a-a53be0cbd738,CANCELLED,2024-12-10 02:41:50.679448,2024-12-10 03:04:57.048414
+bee5578d-b2c1-4759-b7c1-ea46d822a128,Hello,World!,e62bf87d-c99b-4912-9d8a-a53be0cbd738,PENDING,2024-12-10 03:05:19.988630,2024-12-10 03:05:19.988630
+0d0046ba-f5d7-437c-8e2a-0472d1d1b1ff,Hello,Lorem Ipsum dolor set Amet,f15ad826-603f-4522-b4ff-df060ce87711,DONE,2024-12-10 03:15:30.593399,2024-12-10 03:16:16.486651
